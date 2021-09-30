@@ -5,7 +5,7 @@ This is a Bootstrap 4.5.3 boilerplate template. It uses the 4.5.3 CDN and only u
 ## Steps to clone repo
 
 ```
-1. (navigate to your project folder in your terminal)
+1. navigate to your project folder in your terminal
 
 2. git clone git@github.com:ninojaquino/bootstrap-boilerplate.git
 
